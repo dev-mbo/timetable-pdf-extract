@@ -1,0 +1,9 @@
+typer[all]==0.9.0
+PyPDF2==3.0.1
+pdfminer.six==20221105 
+pdfplumber==0.10.2
+python-poppler
+pdf2image==1.16.3
+Pillow==10.0.1
+pytesseract== 0.3.10
+tabulate==0.9.0 
